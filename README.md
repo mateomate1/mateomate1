@@ -33,6 +33,6 @@ La applicacion esta pensada para funcionar como una red social de trayectos aña
 - [ ] Diseñar arquitecturas backend escalables
 
 ## Enlaces 🔗
-
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?tyle=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?tyle=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)!-->
+- [linkedin](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
 - Contactarme por correo: `mateoayarrabarbero@gmail.com`
