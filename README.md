@@ -33,7 +33,7 @@ La applicacion esta pensada para funcionar como una red social de trayectos aña
 ## Enlaces
 
 - [LinkedIn](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
-- Contactarme por correo: [mateoayarrabarbero@gmail.com](mateoayarrabarbero@gmail.com)
+- Contactarme por correo: `mateoayarrabarbero@gmail.com`
 
 <!--
 **mateomate1/mateomate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
