@@ -5,11 +5,11 @@ Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicacione
 
 ## Tecnologias
 
-- Backend: Java, Python, JavaScript
-- Frameworks: Spring Boot, Flask, Node.js
-- Bases de datos: MySQL, PostgreSQL, MongoDB
-- Herramientas: Docker, GitHub Actions, Git
-- Movil: Android, Flutter
+- **Lenguajes:** Java, Python, JavaScript, Json, XML
+- **Frameworks:** Spring Boot, Hibernate
+- **Bases de datos:** MySQL, SQLite
+- **Herramientas:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
+- **Formato de datos y parseo:** XML(DOM), JSON, CSV, Properties, txt
 
 ## Proyectos destacados
 
@@ -34,18 +34,3 @@ La applicacion esta pensada para funcionar como una red social de trayectos aña
 
 - [LinkedIn](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
 - Contactarme por correo: `mateoayarrabarbero@gmail.com`
-
-<!--
-**mateomate1/mateomate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
