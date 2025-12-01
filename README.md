@@ -3,7 +3,7 @@
 ## Sobre mi 👨‍💻
 
 Estudiante en desarrollo de Aplicaciones Multiplataforma (DAM).
-Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicaciones de movilidad y rutas compartidas.
+Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicaciones.
 
 ## Tecnologias 🛠️
 
