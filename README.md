@@ -21,12 +21,12 @@ Repositorio orientado a generar un arbol de ficheros desde una carpeta, el proye
 La clase principal recorre de manera recursiva los ficheros dentro de la carpeta, pasando por el filtro y ejecutando de nuevo una lista ordenada de ficheros.
 
 [Echale un vistazo!! 👀](https://github.com/mateomate1/folder_tree_generator.git)
-
+<!--
 ### App de rutas compartidas
 
 Demo de aplicacion orientada a estudiantes para crear grupos, gestionar destinos y compartir trayectos permitiendo compartir el viaje ya sea por coche, bus, tren o simplemente hacer un trayecto en bici con otras personas.
 La applicacion esta pensada para funcionar como una red social de trayectos añadiendo la opcion de gestionar pagos en grupos tales como la gasolina y otros gastos del trayecto.
-
+!-->
 ## Objetivos actuales 🎯
 
 - [ ] Publicar librerias reutilizables en GitHub Packages / Maven Central
