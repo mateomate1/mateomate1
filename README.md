@@ -33,7 +33,7 @@ La clase principal recorre de manera recursiva los ficheros dentro de la carpeta
 
 Repositorio grupal orientado a practicar el uso de BBDD NoSQL, en este caso usando DynamoDB, el proyecto contiene la logica de negocio y la conexion a una base de datos no sql. En cuanto a la logica de negocion deberia ser capaz de clasificar salas(segun tamaño y otras caracteristicas a distinguir), notificar cuando la sala esta ocupada o no y por quien, numero de gente que la esta usando y otros.
 
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Estado](https://img.shields.io/badge/estado-completado-green)
 [Echale un vistazo!! 👀](https://github.com/mateomate1/AAD_UD06_Trabajo_G6_DynamoDB.git)
 
 <!--
