@@ -53,7 +53,7 @@ Regarding the business logic, it should be able to classify rooms (based on size
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a/)
 
-![Snake animation](https://raw.githubusercontent.com/mateomate1/mateomate1/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mateomate1/mateomate1/output/github-snake-dark.svg)
 
 <!--
 ### Shared Routes App
