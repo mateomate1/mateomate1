@@ -36,6 +36,14 @@ Repositorio grupal orientado a practicar el uso de BBDD NoSQL, en este caso usan
 ![Estado](https://img.shields.io/badge/estado-completado-green)
 [Echale un vistazo!! 👀](https://github.com/mateomate1/AAD_UD06_Trabajo_G6_DynamoDB.git)
 
+## Contacto
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a/))
+
+<img src="https://raw.githubusercontent.com/mateomate1/mateomate1/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 ### App de rutas compartidas
 
