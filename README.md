@@ -41,8 +41,13 @@ Regarding the business logic, it should be able to classify rooms (based on size
 
 - [ ] Publish reusable libraries on GitHub Packages / Maven Central
 - [ ] Design scalable backend architectures
-
----
+- [ ] Build and deploy a scalable REST API
+- [ ] Learn Kubernetes and container orchestration
+- [ ] Deploy applications using Docker and cloud services
+- [ ] Implement authentication and authorization systems
+- [ ] Improve testing with unit and integration tests
+- [ ] Learn WebSockets and real-time communication
+- [ ] Publish a complete personal portfolio website
 
 ## Contact
 
