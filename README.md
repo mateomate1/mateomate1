@@ -1,65 +1,86 @@
 # Mateo Ayarra 🚀
 
----
+## About Me 👨‍💻
 
-## Sobre mi 👨‍💻
+Student in Multiplatform Application Development (DAM).
+Focused on backend development, APIs, automation, deployment, and application development.
 
-Estudiante en desarrollo de Aplicaciones Multiplataforma (DAM).
-Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicaciones.
+## Tech Stack 🛠️
 
----
-
-## Tecnologias 🛠️
-
-- **Lenguajes:** Java, Python, JavaScript, Json, XML
+- **Languages:** Java, Python, JavaScript, JSON, XML
 - **Frameworks:** Spring Boot, Hibernate
-- **Bases de datos:** MySQL, SQLite
-- **Herramientas:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
-- **Formato de datos y parseo:** XML(DOM), JSON, CSV, Properties, txt
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
+- **Data Formats and Parsing:** XML (DOM), JSON, CSV, Properties, TXT
+
+## Featured Projects 📂
+
+### Folder Tree Generator Repository
+
+Repository focused on generating a file tree structure from a folder.
+The project includes a class to filter files depending on which files should be added to the tree, along with a comparator to sort those files in a custom way.
+
+The main class recursively traverses files inside the folder, applying the filter and executing again over an ordered list of files.
+
+[Take a look!! 👀](https://github.com/mateomate1/folder_tree_generator.git)
+
+![Status](https://img.shields.io/badge/status-completed-green)
+
+### Room Reservation Repository
+
+Group repository focused on practicing the use of NoSQL databases, specifically DynamoDB.
+The project contains business logic and the connection to a NoSQL database.
+
+Regarding the business logic, it should be able to classify rooms (based on size and other distinguishable characteristics), notify whether a room is occupied or available and by whom, track the number of people using it, and more.
+
+[Take a look!! 👀](https://github.com/mateomate1/AAD_UD06_Trabajo_G6_DynamoDB.git)
+
+![Status](https://img.shields.io/badge/status-completed-green)
+
+## Current Goals 🎯
+
+- [ ] Publish reusable libraries on GitHub Packages / Maven Central
+- [ ] Design scalable backend architectures
 
 ---
 
-## Proyectos destacados 📂
+## Contact
 
-### Repositorio generador de arboles
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a/)
 
-Repositorio orientado a generar un arbol de ficheros desde una carpeta, el proyecto contiene una clase para filtrar fichero segun que ficheros quieras añadir al arbol y comparador para ordenar de manera personalizada dichos ficheros.
-La clase principal recorre de manera recursiva los ficheros dentro de la carpeta, pasando por el filtro y ejecutando de nuevo una lista ordenada de ficheros.
-
-![Estado](https://img.shields.io/badge/estado-completado-green)
-[Echale un vistazo!! 👀](https://github.com/mateomate1/folder_tree_generator.git)
-
-### Repositorio para reserva de salas
-
-Repositorio grupal orientado a practicar el uso de BBDD NoSQL, en este caso usando DynamoDB, el proyecto contiene la logica de negocio y la conexion a una base de datos no sql. En cuanto a la logica de negocion deberia ser capaz de clasificar salas(segun tamaño y otras caracteristicas a distinguir), notificar cuando la sala esta ocupada o no y por quien, numero de gente que la esta usando y otros.
-
-![Estado](https://img.shields.io/badge/estado-completado-green)
-[Echale un vistazo!! 👀](https://github.com/mateomate1/AAD_UD06_Trabajo_G6_DynamoDB.git)
-
-## Contacto
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a/))
-
-<img src="https://raw.githubusercontent.com/mateomate1/mateomate1/snake-output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://raw.githubusercontent.com/mateomate1/mateomate1/output/github-snake.svg)
 
 <!--
-### App de rutas compartidas
+### Shared Routes App
 
-Demo de aplicacion orientada a estudiantes para crear grupos, gestionar destinos y compartir trayectos permitiendo compartir el viaje ya sea por coche, bus, tren o simplemente hacer un trayecto en bici con otras personas.
-La applicacion esta pensada para funcionar como una red social de trayectos añadiendo la opcion de gestionar pagos en grupos tales como la gasolina y otros gastos del trayecto.
-!-->
+Application demo focused on students to create groups, manage destinations, and share trips by car, bus, train, or even bike rides with other people.
+
+The application is designed to work as a social network for shared routes, including the option to manage group payments such as fuel and other travel expenses.
+
+### Organization Mobile App
+
+Android productivity and personal organization app focused on centralizing tasks, lists, events, routines, and study tools in a single platform.
+
+The project includes an interactive calendar, Pomodoro focus system, cloud synchronization with MongoDB Atlas, and an AI-powered assistant designed to help users organize tasks and navigate the app more efficiently.
+
+Built with Java, Spring Boot, MongoDB Atlas, and Firebase.
+
+[Take a look!! 👀](https://github.com/mateomate1/AAD_UD06_Trabajo_G6_DynamoDB.git)
+
+![Status](https://github.com/mateomate1/RoutineLab.git)
+-->
 
 <!--
-## Objetivos actuales 🎯
+## Current Goals 🎯
 
-- [ ] Publicar librerias reutilizables en GitHub Packages / Maven Central
-- [ ] Diseñar arquitecturas backend escalables
-!-->
+- [ ] Publish reusable libraries on GitHub Packages / Maven Central
+- [ ] Design scalable backend architectures
+-->
 
-<!--## Enlaces 🔗
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?tyle=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
-- [linkedin](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
-- Contactarme por correo: `mateoayarrabarbero@gmail.com`!
+<!--
+## Links 🔗
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a)
+
+- Contact me by email: `mateoayarrabarbero@gmail.com`
 -->
